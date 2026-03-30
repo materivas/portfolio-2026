@@ -2,7 +2,7 @@
 
 ¡Hola! Soy **Mateo Rivas**, estudiante avanzado de la Licenciatura en Sistemas en la Universidad Nacional de Lanús (UNLa) y desarrollador backend. Este repositorio contiene el código fuente de mi portafolio web personal, diseñado para destacar mi experiencia, proyectos y stack tecnológico.
 
-🌐 **Ver el portafolio en vivo:** [mateorivas.vercel.app](https://mateorivas.vercel.app/) *(Nota: recordá actualizar este link si lo subís a otro lado)*
+🌐 **Ver el portafolio en vivo:** [mateorivas.vercel.app](https://mateorivas.vercel.app/)
 
 ---
 
@@ -34,14 +34,6 @@ Actualmente me encuentro en la búsqueda de mi primera oportunidad laboral en el
 
 ### Frontend Basics
 - HTML5, CSS3, JavaScript, Bootstrap, Thymeleaf, Tailwind CSS.
-
----
-
-## 🚀 Proyectos Destacados
-
-1. **[API Sistema de Turnos](https://github.com/materivas/TP-OO2-Grupo-20-Spring)**: Gestión completa de turnos con clientes, empleados y servicios. Validaciones de horarios y manejo de roles *(Java, Spring Boot)*.
-2. **[API E-commerce](https://github.com/materivas/ecommerce-api-java-springboot)**: Sistema completo de productos, carritos, pedidos e inventario con control de stock y seguridad *(Java, Spring Boot)*.
-3. **[Cafetería SQL](https://github.com/materivas/cafeteria-sql)**: Diseño de base de datos relacional y consultas SQL avanzadas optimizadas *(MySQL)*.
 
 ---
 
@@ -77,13 +69,4 @@ Abrí el archivo index.html en tu navegador de preferencia o usá una extensión
 
 💼 LinkedIn: Mateo Rivas
 
-📍 Ubicación: Lanús Oeste, Buenos Aires, Argentina (Disponibilidad Remota/Híbrida)
-
-
-### Últimos pasos:
-1. Guardá el archivo `README.md`.
-2. Hacé un nuevo commit y subilo a GitHub:
-   ```bash
-   git add README.md
-   git commit -m "docs: agrega README.md con perfil y documentacion"
-   git push origin main
+📍 Ubicación: Lanús, Buenos Aires, Argentina (Disponibilidad Remota/Híbrida)
